@@ -1,0 +1,212 @@
+[
+        {
+        "name": "Club",
+        "cost": "1 SP",
+        "damage": "1d4 Bludgeoning",
+        "properties": "Light",
+        "weapon_mastery": "Slow"
+        },
+        {
+        "name": "Dagger",
+        "cost": "2 GP",
+        "damage": "1d4 Piercing",
+        "properties": "Finesse, Light, Thrown (20/60)",
+        "weapon_mastery": "Nick"
+        },
+        {
+        "name": "Greatclub",
+        "cost": "2 SP",
+        "damage": "1d8 Bludgeoning",
+        "properties": "Two-Handed",
+        "weapon_mastery": "Push"
+        },
+        {
+        "name": "Handaxe",
+        "cost": "5 GP",
+        "damage": "1d6 Slashing",
+        "properties": "Light, Thrown (20/60)",
+        "weapon_mastery": "Vex"
+        },
+        {
+        "name": "Javelin",
+        "cost": "5 SP",
+        "damage": "1d6 Piercing",
+        "properties": "Thrown (30/120)",
+        "weapon_mastery": "Slow"
+        },
+        {
+        "name": "Light Hammer",
+        "cost": "2 GP",
+        "damage": "1d4 Bludgeoning",
+        "properties": "Light, Thrown (20/60)",
+        "weapon_mastery": "Nick"
+        },
+        {
+        "name": "Mace",
+        "cost": "5 GP",
+        "damage": "1d6 Bludgeoning",
+        "properties": "-",
+        "weapon_mastery": "Sap"
+        },
+        {
+        "name": "Quarterstaff",
+        "cost": "2 SP",
+        "damage": "1d6 Bludgeoning",
+        "properties": "Versatile (1d8)",
+        "weapon_mastery": "Topple"
+        },
+        {
+        "name": "Sickle",
+        "cost": "1 GP",
+        "damage": "1d4 Slashing",
+        "properties": "Light",
+        "weapon_mastery": "Nick"
+        },
+        {
+        "name": "Spear",
+        "cost": "1 GP",
+        "damage": "1d6 Piercing",
+        "properties": "Thrown (20/60), Versatile (1d8)",
+        "weapon_mastery": "Sap"
+        },
+        {
+        "name": "Light Crossbow",
+        "cost": "25 GP",
+        "damage": "1d8 Piercing",
+        "properties": "Ammunition (80/320), Loading, Two-Handed",
+        "weapon_mastery": "Slow"
+        },
+        {
+        "name": "Dart",
+        "cost": "5 CP",
+        "damage": "1d4 Piercing",
+        "properties": "Finesse, Thrown (20/60)",
+        "weapon_mastery": "Vex"
+        },
+        {
+        "name": "Shortbow",
+        "cost": "25 GP",
+        "damage": "1d6 Piercing",
+        "properties": "Ammunition (80/320), Two-Handed",
+        "weapon_mastery": "Vex"
+        },
+        {
+        "name": "Sling",
+        "cost": "1 SP",
+        "damage": "1d4 Bludgeoning",
+        "properties": "Ammunition (30/120)",
+        "weapon_mastery": "Slow"
+        },
+        {
+        "name": "Battleaxe",
+        "cost": "10 GP",
+        "damage": "1d8 Slashing",
+        "properties": "Versatile (1d10)",
+        "weapon_mastery": "Cleave"
+        },
+        {
+        "name": "Flail",
+        "cost": "10 GP",
+        "damage": "1d8 Bludgeoning",
+        "properties": "-",
+        "weapon_mastery": "Topple"
+        },
+        {
+        "name": "Glaive",
+        "cost": "20 GP",
+        "damage": "1d10 Slashing",
+        "properties": "Heavy, Reach, Two-Handed",
+        "weapon_mastery": "Cleave"
+        },
+        {
+        "name": "Greataxe",
+        "cost": "30 GP",
+        "damage": "1d12 Slashing",
+        "properties": "Heavy, Two-Handed",
+        "weapon_mastery": "Cleave"
+        },
+        {
+        "name": "Greatsword",
+        "cost": "50 GP",
+        "damage": "2d6 Slashing",
+        "properties": "Heavy, Two-Handed",
+        "weapon_mastery": "Cleave"
+        },
+        {
+        "name": "Halberd",
+        "cost": "20 GP",
+        "damage": "1d10 Slashing",
+        "properties": "Heavy, Reach, Two-Handed",
+        "weapon_mastery": "Push"
+        },
+        {
+        "name": "Lance",
+        "cost": "10 GP",
+        "damage": "1d12 Piercing",
+        "properties": "Reach, Special",
+        "weapon_mastery": "Graze"
+        },
+        {
+        "name": "Longsword",
+        "cost": "15 GP",
+        "damage": "1d8 Slashing",
+        "properties": "Versatile (1d10)",
+        "weapon_mastery": "Sap"
+        },
+        {
+        "name": "Maul",
+        "cost": "10 GP",
+        "damage": "2d6 Bludgeoning",
+        "properties": "Heavy, Two-Handed",
+        "weapon_mastery": "Push"
+        },
+        {
+        "name": "Morningstar",
+        "cost": "15 GP",
+        "damage": "1d8 Piercing",
+        "properties": "-",
+        "weapon_mastery": "Sap"
+        },
+        {
+        "name": "Pike",
+        "cost": "5 GP",
+        "damage": "1d10 Piercing",
+        "properties": "Heavy, Reach, Two-Handed",
+        "weapon_mastery": "Graze"
+        },
+        {
+        "name": "Blowgun",
+        "cost": "10 GP",
+        "damage": "1 Piercing",
+        "properties": "Ammunition (25/100), Loading",
+        "weapon_mastery": "Vex"
+        },
+        {
+        "name": "Hand Crossbow",
+        "cost": "75 GP",
+        "damage": "1d6 Piercing",
+        "properties": "Ammunition (30/120), Light, Loading",
+        "weapon_mastery": "Nick"
+        },
+        {
+        "name": "Heavy Crossbow",
+        "cost": "50 GP",
+        "damage": "1d10 Piercing",
+        "properties": "Ammunition (100/400), Heavy, Loading, Two-Handed",
+        "weapon_mastery": "Graze"
+        },
+        {
+        "name": "Longbow",
+        "cost": "50 GP",
+        "damage": "1d8 Piercing",
+        "properties": "Ammunition (150/600), Heavy, Two-Handed",
+        "weapon_mastery": "Graze"
+        },
+        {
+        "name": "Net",
+        "cost": "1 GP",
+        "damage": "-",
+        "properties": "Special, Thrown (5/15)",
+        "weapon_mastery": "Slow"
+        }
+    ]
